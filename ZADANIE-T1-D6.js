@@ -140,7 +140,7 @@ uzasadnienie(`No pętla tez na szyje moze byc?`);
     Odpowiedź wpisz poniżej.
 */
 odpowiedź("5");
-uzasadnienie(`5*2*2*2*2*2=160 ostatnia sie wykonuje bo wczesniej bylo 80?`);
+uzasadnienie(`5*2*2*2*2*2`);
 
 /*
     6.
